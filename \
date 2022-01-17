@@ -1,0 +1,20 @@
+git commit -m "yes!"
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	deleted:    [E-02]Project1_load_digits.ipynb
+#	deleted:    [E-02]Project2_load_wine.ipynb
+#	deleted:    [E-02]Project3_load_breast_cancer.ipynb
+#	deleted:    rock_scissor_paper_classifier.ipynb
+#
+# Untracked files:
+#	Aiffel/
+#	Project/[E-02]Project1_load_digits.ipynb
+#	Project/[E-02]Project2_load_wine.ipynb
+#	Project/[E-02]Project3_load_breast_cancer.ipynb
+#	Project/rock_scissor_paper_classifier.ipynb
+#
